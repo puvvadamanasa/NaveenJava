@@ -7,7 +7,7 @@ public class Car {
 	private int cost;
 	public static void main(String[] args) {
 		Car c = new Car();
-		c.color="blue";
+		c.color="red";
 		c.name="ausi";
 		c.ln=1234;
 		c.cost=234;
